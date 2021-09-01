@@ -1,0 +1,4 @@
+[General]
+type=image
+background.blur.intensity=30
+background="components/artwork/coffee-cup.jpg"

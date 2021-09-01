@@ -1,0 +1,22 @@
+#+TITLE: SDDM
+#+AUTHOR: Artem Smaznov
+
+* Preview Theme
+You can preview the theme by pointing to the specific theme's folder like this:
+#+begin_src shell
+sddm-greeter --test-mode --theme /usr/share/sddm/themes/sober
+#+end_src
+
+* Sources
+** Sober
+- forked from [[https://github.com/Rokin05/SDDM-Themes][Rokin05]]
+
+* Screenshots
+** Deepin
+[[https://raw.githubusercontent.com/ArtemSmaznov/screenshots/master/SDDM/deepin.png]]
+** Maldives
+[[https://raw.githubusercontent.com/ArtemSmaznov/screenshots/master/SDDM/maldives.png]]
+** Sober
+[[https://raw.githubusercontent.com/ArtemSmaznov/screenshots/master/SDDM/sober.png]]
+** Sugar-Candy
+[[https://raw.githubusercontent.com/ArtemSmaznov/screenshots/master/SDDM/sugar-candy.png]]
