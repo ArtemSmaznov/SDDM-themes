@@ -1,6 +1,16 @@
 #+TITLE: SDDM
 #+AUTHOR: Artem Smaznov
 
+* Table of Contents :toc:
+- [[#preview-theme][Preview Theme]]
+- [[#sources][Sources]]
+  - [[#sober][Sober]]
+- [[#screenshots][Screenshots]]
+  - [[#deepin][Deepin]]
+  - [[#maldives][Maldives]]
+  - [[#sober-1][Sober]]
+  - [[#sugar-candy][Sugar-Candy]]
+
 * Preview Theme
 You can preview the theme by pointing to the specific theme's folder like this:
 #+begin_src shell
