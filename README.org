@@ -1,14 +1,12 @@
-#+TITLE: SDDM
+#+TITLE: SDDM Themes
 #+AUTHOR: Artem Smaznov
 
 * Table of Contents :toc:
 - [[#preview-theme][Preview Theme]]
-- [[#sources][Sources]]
-  - [[#sober][Sober]]
 - [[#screenshots][Screenshots]]
   - [[#deepin][Deepin]]
   - [[#maldives][Maldives]]
-  - [[#sober-1][Sober]]
+  - [[#sober][Sober]]
   - [[#sugar-candy][Sugar-Candy]]
 
 * Preview Theme
@@ -17,16 +15,15 @@ You can preview the theme by pointing to the specific theme's folder like this:
 sddm-greeter --test-mode --theme /usr/share/sddm/themes/sober
 #+end_src
 
-* Sources
-** Sober
-- forked from [[https://github.com/Rokin05/SDDM-Themes][Rokin05]]
-
 * Screenshots
 ** Deepin
+Source: [[https://github.com/Match-Yang/sddm-deepin][Match-Yang]]
 [[https://raw.githubusercontent.com/ArtemSmaznov/screenshots/master/SDDM/deepin.png]]
 ** Maldives
 [[https://raw.githubusercontent.com/ArtemSmaznov/screenshots/master/SDDM/maldives.png]]
 ** Sober
+Source: [[https://github.com/Rokin05/SDDM-Themes][Rokin05]]
 [[https://raw.githubusercontent.com/ArtemSmaznov/screenshots/master/SDDM/sober.png]]
 ** Sugar-Candy
+Source: [[https://store.kde.org/p/1312658/][KDE Store]]
 [[https://raw.githubusercontent.com/ArtemSmaznov/screenshots/master/SDDM/sugar-candy.png]]
