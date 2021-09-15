@@ -1,5 +1,7 @@
 #+TITLE: SDDM Themes
 #+AUTHOR: Artem Smaznov
+#+DESCRIPTION: Themes for SDDM
+#+STARTUP: overview
 
 * Table of Contents :toc:
 - [[#preview-theme][Preview Theme]]
